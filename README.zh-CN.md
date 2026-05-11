@@ -70,6 +70,8 @@ https://clawhub.ai/Tongyu-Yan/turix-cua
 
 ## <a id="latest-news"></a>📰 最新动态
 
+**2026年 5 月 11 日** - 现在可以在我们的[官网](https://turix.ai)上下载**TuriX超级智能体**。
+
 **2026 年 4 月 8 日** - 🚀 重磅发布 **TuriX SuperPower 3.0.0-alpha**（macOS Apple Silicon）：  
 [dmg安装包（仅支持Mac）](https://turix-staging-apollo.sfo3.cdn.digitaloceanspaces.com/turix-app/desktop/releases/Turix-SuperPower_3.0.0-alpha_aarch64.dmg)
 
